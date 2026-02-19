@@ -37,7 +37,3 @@ Continuous improvement is embedded in OctoAcme's culture through regular retrosp
 - Add process documentation to `.copilot/` directories if you want GitHub Copilot Spaces to use them as context
 - Update and adapt these templates to fit your project's specific needs while maintaining core principles
 - Reference these docs in project kickoffs and onboarding to ensure team alignment
-
----
-
-*Closes #2*
